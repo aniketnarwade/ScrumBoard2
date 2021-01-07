@@ -1,0 +1,40 @@
+{
+  "lanes": [{
+    "id": "PLANNED",
+    "title": "To Do",
+    "label": "",
+    "style": {
+      "width": 280
+    },
+    "cards": []
+  },
+    {
+      "id": "IP",
+      "title": "In Progress",
+      "label": "",
+      "style": {
+        "width": 280
+      },
+      "cards": []
+    },
+    {
+      "id": "BLOCKED",
+      "title": "Blocked",
+      "label": "",
+      "style": {
+        "width": 280
+      },
+      "cards": []
+    },
+    {
+      "id": "COMPLETED",
+      "title": "Completed",
+      "style": {
+        "width": 280
+      },
+      "label": "",
+      "cards": []
+
+    }
+  ]
+}

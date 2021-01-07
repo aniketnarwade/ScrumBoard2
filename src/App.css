@@ -1,0 +1,36 @@
+/* Custom Style */
+
+.btn-primary , .bg-primary{
+  background: linear-gradient(45deg,black,blueviolet);
+}
+.btn-secondary , .bg-secondary{
+  background: linear-gradient(45deg,black,purple);
+}
+.btn-success , .bg-success{
+  background: linear-gradient(45deg,black,limegreen);
+}
+.btn-info , .bg-info{
+  background: linear-gradient(45deg,black,lightblue);
+}
+.btn-warning , .bg-warning{
+  background: linear-gradient(45deg,black,orange);
+}
+.btn-danger , .bg-danger{
+  background: linear-gradient(45deg,black,red);
+}
+.btn-light , .bg-light{
+  background: linear-gradient(45deg,darkgray,gray);
+}
+.btn-dark , .bg-dark{
+  background: linear-gradient(45deg,black,darkslategray);
+}
+.landing-page{
+  background: white url("https://user-images.githubusercontent.com/2182637/53611918-54c1ff80-3c24-11e9-9917-66ac3cef513d.png") no-repeat scroll center;
+  height: 100vh;
+  background-size: cover;
+  color: #e2c8a0;
+}
+.wrapper{
+  background-color: rgba(0,0,0,0.8);
+  height: 100%;
+}
